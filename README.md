@@ -1,2 +1,2 @@
 # training360-szoftverarchitekturak
-![a](01.konzolos alkalmazas.JPG)
+![első kép](01.konzolos alkalmazas.JPG)

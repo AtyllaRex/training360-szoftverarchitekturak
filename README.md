@@ -1,2 +1,3 @@
 # training360-szoftverarchitekturak
-![első kép](01.konzolos alkalmazas.JPG)
+
+![Első kép](01.konzolos alkalmazas.JPG)
